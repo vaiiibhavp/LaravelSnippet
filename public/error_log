@@ -1,0 +1,257 @@
+[30-Jun-2021 10:07:38 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Packaging_option as Packaging_option because the name is already in use in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/VarietyBundles.php on line 12
+[30-Jun-2021 10:07:39 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Packaging_option as Packaging_option because the name is already in use in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/VarietyBundles.php on line 12
+[30-Jun-2021 10:08:04 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Packaging_option as Packaging_option because the name is already in use in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/VarietyBundles.php on line 12
+[19-Aug-2021 13:41:34 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:41:38 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:41:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:41:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:42 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:44 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:44 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:44 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:42:45 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected '}' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:144
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /home/nk6nzmf8mf9 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:48:48 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')', expecting ']' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:135
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /h in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:48:49 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')', expecting ']' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:135
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /h in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:48:53 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')', expecting ']' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:135
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /h in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 13:49:03 Asia/Kolkata] PHP Fatal error:  During class fetch: Uncaught ParseError: syntax error, unexpected ')', expecting ']' in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/laravel/ui/auth-backend/AuthenticatesUsers.php:135
+Stack trace:
+#0 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Foun...')
+#2 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php(13): spl_autoload_call('Illuminate\\Foun...')
+#3 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(444): include('/home/nk6nzmf8m...')
+#4 /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/nk6nzmf8m...')
+#5 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#6 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#7 /h in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/Auth/LoginController.php on line 13
+[19-Aug-2021 15:21:59 Asia/Kolkata] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/storage/framework/views/f314b7d9e6fb611ecb2dcca3189b897d1527c56e.php on line 82
+[19-Aug-2021 15:22:15 Asia/Kolkata] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/storage/framework/views/f314b7d9e6fb611ecb2dcca3189b897d1527c56e.php on line 82
+[26-Aug-2021 12:37:25 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 528486400 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 218
+[26-Aug-2021 12:39:31 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 528486400 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 219
+[26-Aug-2021 13:01:48 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 528486400 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 233
+[26-Aug-2021 13:01:58 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 528486400 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 233
+[26-Aug-2021 13:03:38 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 528486400 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 235
+[09-Sep-2021 12:49:42 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 526389248 bytes) in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 85
+[15-Sep-2021 16:20:46 Asia/Kolkata] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 1273
+[16-Sep-2021 19:45:26 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1049 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 1049
+[16-Sep-2021 19:45:26 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1049 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 1049
+[20-Sep-2021 11:09:05 Asia/Kolkata] PHP Warning:  Unterminated comment starting line 1050 in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 1050
+[20-Sep-2021 12:13:00 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 88
+[20-Sep-2021 12:13:02 Asia/Kolkata] PHP Fatal error:  Cannot use empty array elements in arrays in /home/nk6nzmf8mf9q/public_html/fdadmin.prometteur.in/app/Http/Controllers/OrderController.php on line 88
