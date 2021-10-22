@@ -1,5 +1,13 @@
 version = 1
 
+exclude_patterns = [
+  "vendor/**",
+  "public/**",
+  "bootstrap/**",
+  "storage/**",
+  "resources/**"
+]
+
 [[analyzers]]
 name = "php"
 enabled = true
